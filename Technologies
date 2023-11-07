@@ -144,7 +144,7 @@
             <div class="row">
                 <div class="col-sm-6 mb-5">
                     <a href="#" class="navbar-brand">
-                        <h1 class="mb-3 text-white"  style="font-size: 25px ;"><span class="text-primary"> Technologies</span ></h1>
+                        <h1 class="mb-3 text-white"  style="font-size: 25px ;"><span class="text-primary">Technologies</span ></h1>
                     </a>
                     <div class="d-flex flex-column justify-content-start">
                         <a class="text-white-50 mb-2" href="https://drive.google.com/drive/folders/1ZJR4JGTIeiJXC0FJWH4syeHkwRMHq-Ai?usp=share_link"><i class="fa fa-angle-right mr-2"></i>Technologies Internal Sharing</a>
