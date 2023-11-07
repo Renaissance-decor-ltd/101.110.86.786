@@ -140,14 +140,14 @@
     
     <div class="container-fluid bg-dark text-light border-top py-4" style="border-color: rgba(256, 256, 256, .15) !important;">
         <div class="container">
-            <h1 style="color: white ;">Management</h1> <br> <br>
+            <h1 style="color: white ;">Technologies</h1> <br> <br>
             <div class="row">
                 <div class="col-sm-6 mb-5">
                     <a href="#" class="navbar-brand">
-                        <h1 class="mb-3 text-white"  style="font-size: 25px ;"><span class="text-primary"> Management</span ></h1>
+                        <h1 class="mb-3 text-white"  style="font-size: 25px ;"><span class="text-primary"> Technologies</span ></h1>
                     </a>
                     <div class="d-flex flex-column justify-content-start">
-                        <a class="text-white-50 mb-2" href="https://drive.google.com/drive/folders/1ZJR4JGTIeiJXC0FJWH4syeHkwRMHq-Ai?usp=share_link"><i class="fa fa-angle-right mr-2"></i>Management Internal Sharing</a>
+                        <a class="text-white-50 mb-2" href="https://drive.google.com/drive/folders/1ZJR4JGTIeiJXC0FJWH4syeHkwRMHq-Ai?usp=share_link"><i class="fa fa-angle-right mr-2"></i>Technologies Internal Sharing</a>
                         <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Muneeza Asaf</a>
                         <a class="text-white-50 mb-2" href="https://drive.google.com/drive/folders/1q2tf4EE9t9FhuMqZg7oBus4b9VIcMqqK?usp=share_link"><i class="fa fa-angle-right mr-2"></i>Mehreen Asaf</a>
                         
